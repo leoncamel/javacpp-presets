@@ -1,4 +1,5 @@
 
+ * Introduce platform artifacts that depend on binaries for all available platforms and work with any build system (sbt, Gradle, M2Eclipse, etc)
  * Fix presets for CUDA 7.5 on the `linux-ppc64le` platform
  * Upgrade presets for TensorFlow 0.9.0
  * Set default options in `tensorflow/cppbuild.sh` to prevent console reads during build
